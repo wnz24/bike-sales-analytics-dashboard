@@ -48,7 +48,7 @@ bike-sales-dashboard/
 └── Sales.csv            # main Dataset
 
 
-
+```
 ## 🚀 Getting Started
 
 ### Prerequisites
