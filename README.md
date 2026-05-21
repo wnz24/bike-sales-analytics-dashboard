@@ -45,9 +45,7 @@ This project contains an interactive Excel dashboard built to analyze bike sales
 bike-sales-dashboard/
 ├── Excel Project Dataset.xlsx    # Main workbook with all data and visualizations
 ├── README.md                      # This file
-└── docs/
-    └── usage-guide.md            # Detailed user guide (optional)
-```
+└── Sales.csv            # main Dataset
 
 ## 🚀 Getting Started
 
