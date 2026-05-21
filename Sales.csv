@@ -1,0 +1,12 @@
+Customer_Gender,Country,State,Product_Category,Sub_Category,Product,Order_Quantity,Unit_Cost,Unit_Price,Profit,Max,Min,IF,IFS,Len,Left,trim,CONCAT,sum,SUMIF,SUMIFS
+M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,1366,2,Small Order,8,16,Bike,Hitch Rack - 4-Bike,"British Columbia ,Canada",7108,4696,1232
+M,Canada,British Columbia,Accessories,Bike Racks,Hitch     Rack - 4-Bike,8,45,120,590,,,Small Order,8,16,Bike,Hitch Rack - 4-Bike,"British Columbia ,Canada",,,0
+F,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike      ,4,45,120,238,,,Small Order,#N/A,15,Bike,Hitch Rack - 4-Bike,"New South Wales ,Australia",,,0
+F,Australia,Victoria,Accessories,Bike Racks,     Hitch Rack - 4-Bike,4,45,120,199,,,Small Order,4,8,Bike,Hitch Rack - 4-Bike,"Victoria ,Australia",,,0
+F,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,398,,,Small Order,8,8,Bike,Hitch Rack - 4-Bike,"Victoria ,Australia",,,
+M,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,23,45,120,1366,,,Big Order,#N/A,15,Bike,Hitch Rack - 4-Bike,"New South Wales ,Australia",,,0
+M,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,20,45,120,1188,,,Small Order,#N/A,15,Bike,Hitch Rack - 4-Bike,"New South Wales ,Australia",,,0
+F,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,297,,,Small Order,#N/A,15,Bike,Hitch Rack - 4-Bike,"New South Wales ,Australia",,,0
+F,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,100,,,Small Order,2,8,Bike,Hitch Rack - 4-Bike,"Victoria ,Australia",,,0
+M,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45,120,1096,,,Big Order,22,8,Bike,Hitch Rack - 4-Bike,"Victoria ,Australia",,,0
+M,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,21,45,120,1046,,,Big Order,21,8,Bike,Hitch Rack - 4-Bike,"Victoria ,Australia",,,
