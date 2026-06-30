@@ -2,7 +2,9 @@
 
 A comprehensive Excel-based analytical dashboard for tracking and visualizing bike sales metrics across multiple dimensions including customer demographics, purchasing behavior, and geographic regions.
 
-![Dashboard Screenshot](dasboard-screenshot.png)
+<p align="center">
+  <img src="dashboard-screenshot.png" alt="Dashboard Screenshot" width="700">
+</p>
 
 ## 📊 Project Overview
 This project contains an interactive Excel dashboard built to analyze bike sales data with a focus on understanding customer purchasing patterns, income trends, and commute behavior across different demographic segments.
@@ -31,3 +33,10 @@ This project contains an interactive Excel dashboard built to analyze bike sales
 - Middle-age customers made up the largest segment in both purchased and non-purchased groups, suggesting age alone is a weaker predictor of purchase than income or commute distance
 
 ## 📁 File Structure
+```
+bike-sales-dashboard/
+├── Excel Project Dataset.xlsx    # Main workbook with all data and visualizations
+├── README.md                     # This file
+├── dashboard-screenshot.png      # Dashboard preview image
+└── Sales.csv                     # Main dataset
+```
